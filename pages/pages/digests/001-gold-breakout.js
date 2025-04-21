@@ -1,7 +1,3 @@
-// /pages/digests/001-gold-breakout.js
-
-import React from 'react';
-
 export default function GoldBreakoutDigest() {
   return (
     <main className="min-h-screen bg-black text-white font-sans px-6 py-10">
